@@ -1,43 +1,42 @@
 # 🎨 Drawberg
 
-Welcome to **Drawberg** — a minimal, intuitive drawing app built with just **HTML, CSS, and JavaScript**. No frameworks. No fluff. Just pure frontend wizardry. 🪄
+*Drawberg* is a lightweight drawing app built using pure *HTML, CSS, and JavaScript* — no frameworks, no dependencies, just good old-fashioned web dev.
 
-Try it out here: [https://igniteking.github.io/Drawberg](https://igniteking.github.io/Drawberg)
-
----
-
-## ✨ Features
-
-- 🖌️ Freehand drawing with your mouse
-- 🎨 Color picker to vibe with your own palette
-- 📏 Adjustable brush size for precision
-- 🧽 Eraser tool to fix your "oops"
-- 🔄 Clear canvas with one click
-- 💻 Fully responsive (use it on desktop, tablet, or mobile)
+🖼️ *Live Demo*: [https://igniteking.github.io/Drawberg](https://igniteking.github.io/Drawberg)
 
 ---
 
-## ⚡ Demo
+# 🚀 Features
 
-> 👉 [Live Demo on GitHub Pages](https://igniteking.github.io/Drawberg)
-
-![Drawberg Demo Screenshot](preview.png) <!-- Optional: Add your own screenshot image -->
-
----
-
-## 🛠️ Built With
-
-- **HTML5** – semantic and clean structure  
-- **CSS3** – flexbox, responsive styling, no frameworks  
-- **Vanilla JS** – event-driven drawing magic
+- 🖌️ Freehand drawing with mouse
+- 🎨 Color picker to set brush color
+- 📏 Adjustable brush size
+- 🧽 Eraser tool
+- 🔄 Clear canvas button
+- 📱 Responsive on all devices
 
 ---
 
-## 🚀 Getting Started
+# ⚙️ How to Use
 
-Clone the repo and open it up locally:
+1. Click on the color box to choose your brush color.
+2. Use the range slider to change brush size.
+3. Hold your mouse and draw on the canvas.
+4. Click **Eraser** to switch to erase mode.
+5. Click **Clear** to wipe the canvas.
 
-```bash
+---
+
+# 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+# 📦 How to Run Locally
+``bash
 git clone https://github.com/igniteking/Drawberg.git
 cd Drawberg
-open index.html
+# Just open index.html in your browser``
